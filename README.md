@@ -41,3 +41,6 @@ Here are some ideas to get you started:
 ### Languages
 
 ![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)    ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
+### 📫 How to reach me:  
+[LinkedIn](https://www.linkedin.com/in/tetiana-tkachuk) | [Telegram](https://t.me/Tkachuk_Tetiana) | [Email](mailto:pokrovka100@gmail.com)
