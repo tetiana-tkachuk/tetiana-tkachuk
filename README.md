@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 
 ### My Tech Stack
 
-[<img alt="JavaScript" width="44px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />](https://www.javascript.com/)
-[<img alt="TypeScript" width="44px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />](https://www.typescriptlang.org/) 
-[<img alt="React" width="44px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />](https://reactjs.org/) 
-[<img alt="Node.js" width="44px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />](https://nodejs.org/) 
-[<img alt="HTML5" width="44px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img alt="CSS3" width="44px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img alt="Sass" width="44px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />](https://sass-lang.com/)
-[<img alt="Figma" width="44px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />](https://www.figma.com/)
-[<img alt="Git" width="44px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />](https://git-scm.com/)
-[<img alt="GitHub" width="44px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />](https://github.com/)
-[<img alt="Terminal" width="44px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />](https://en.wikipedia.org/wiki/Command-line_interface)
-[<img alt="VS Code" width="44px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+[<img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />](https://www.javascript.com/)
+[<img alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />](https://www.typescriptlang.org/) 
+[<img alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />](https://reactjs.org/) 
+[<img alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />](https://nodejs.org/) 
+[<img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />](https://sass-lang.com/)
+[<img alt="Figma" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />](https://www.figma.com/)
+[<img alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />](https://git-scm.com/)
+[<img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />](https://github.com/)
+[<img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />](https://en.wikipedia.org/wiki/Command-line_interface)
+[<img alt="VS Code" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 
 
 ### Languages
